@@ -1,6 +1,12 @@
 {
+  "/api/agent-reply/route": "app/api/agent-reply/route.js",
+  "/api/escalations/route": "app/api/escalations/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/api/knowledge-base/route": "app/api/knowledge-base/route.js",
+  "/api/webhook/route": "app/api/webhook/route.js",
+  "/login/page": "app/login/page.js",
   "/page": "app/page.js",
-  "/dashboard/inbox/page": "app/dashboard/inbox/page.js",
-  "/dashboard/knowledge-base/page": "app/dashboard/knowledge-base/page.js"
+  "/dashboard/escalations/page": "app/dashboard/escalations/page.js",
+  "/dashboard/knowledge-base/page": "app/dashboard/knowledge-base/page.js",
+  "/dashboard/inbox/page": "app/dashboard/inbox/page.js"
 }

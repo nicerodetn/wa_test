@@ -1,4 +1,4 @@
-// File: D:\whatsapp-bot\whatsapp-bot\app\dashboard\layout.jsx
+// File: /workspaces/wa_test/app/dashboard/layout.jsx
 import * as entry from '../../../../app/dashboard/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

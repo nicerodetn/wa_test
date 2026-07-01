@@ -1,4 +1,4 @@
-// File: D:\whatsapp-bot\whatsapp-bot\app\api\knowledge-base\route.js
+// File: /workspaces/wa_test/app/api/knowledge-base/route.js
 import * as entry from '../../../../../app/api/knowledge-base/route.js'
 import type { NextRequest } from 'next/server.js'
 

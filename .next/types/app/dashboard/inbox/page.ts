@@ -1,4 +1,4 @@
-// File: D:\whatsapp-bot\whatsapp-bot\app\dashboard\inbox\page.jsx
+// File: /workspaces/wa_test/app/dashboard/inbox/page.jsx
 import * as entry from '../../../../../app/dashboard/inbox/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

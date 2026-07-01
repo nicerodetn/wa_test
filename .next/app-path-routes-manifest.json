@@ -1,0 +1,12 @@
+{
+  "/api/agent-reply/route": "/api/agent-reply",
+  "/api/escalations/route": "/api/escalations",
+  "/_not-found/page": "/_not-found",
+  "/api/knowledge-base/route": "/api/knowledge-base",
+  "/api/webhook/route": "/api/webhook",
+  "/login/page": "/login",
+  "/page": "/",
+  "/dashboard/escalations/page": "/dashboard/escalations",
+  "/dashboard/knowledge-base/page": "/dashboard/knowledge-base",
+  "/dashboard/inbox/page": "/dashboard/inbox"
+}
